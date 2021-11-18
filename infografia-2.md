@@ -1,4 +1,9 @@
 
+#COMENTARIO INFOGRAFÍA 2
+
+https://elordenmundial.com/mapas-y-graficos/origen-fortuna-milmillonarios/
+
+
 La infografía a comentar ha sido extraída del medio digital El Orden Mundial. El tema que aborda se presenta mediante el siguiente título, claro y directo:  **¿Cómo han hecho su fortuna los milmillonarios?**. El cuál viene diferenciado del resto de información por un estilo gráfico distinto ya que el tamaño de sus caractéres es superior al del resto del texto y está escrito en negrita.
 
 En esta infografía se puede apreciar un uso muy inteligente en cuanto el diseño y organización del contenido seleccionado:
