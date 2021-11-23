@@ -1,6 +1,6 @@
 <img src="img/felicitaciones.png>
 
-#PRÁCTICA 3 GRÁFICO DATAWRAPPER
+# PRÁCTICA 3 GRÁFICO DATAWRAPPER #
 
 En este ejercicio he realizado un gráfico con datawrapper a partir de los datos extraídos del archivo "feliz". Con tal cantidad de datos, eran muchas las posibles opciones sobre las que trabajar y realizar el pertinente gráfico. Finalmente, me decanté por investigar a partir de los hasthag de felicitación de cada día de la semana con el objetivo de averiguar que día se felicitaba más por twitter (dato que refleja el gráfico realizado).
 
