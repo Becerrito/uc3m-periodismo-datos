@@ -1,5 +1,5 @@
 
-#COMENTARIO INFOGRAFÍA 2
+# COMENTARIO INFOGRAFÍA 2 #
 
 https://elordenmundial.com/mapas-y-graficos/origen-fortuna-milmillonarios/
 
