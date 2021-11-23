@@ -1,4 +1,4 @@
-<img src="img/felicitaciones.png>
+<img src="img/felicitaciones.png.png>
 
 #PRÁCTICA 3 GRÁFICO DATAWRAPPER
 
