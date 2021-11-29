@@ -1,7 +1,7 @@
 # ¿QUÉ DÍA DE LA SEMANA SOMOS MÁS FELICES EN TWITTER?
 
 
-La norma ISO 8601 es la pauta adquirida a nivel internacional con el objetivo de establecer un mismo formato en la presentación de datos. Así, todo el mundo puede compartir el mismo sistema de horas-minutos-segundos y también de fechas. Pero no sólo eso, también es el que determina la organización de nuestro tiempo en torno a lo que conocemos como semana.
+La norma ISO 8601 es la pauta adquirida a nivel internacional con el objetivo de establecer un mismo formato en la presentación de datos. Así, todo el mundo puede compartir el mismo sistema de horas-minutos-segundos y también de fechas. Pero no sólo eso, también es la que determina la organización de nuestro tiempo en torno a lo que conocemos como semana.
 
 El concepto de semana es definido como el “período de siete días que, según el calendario civil, empieza el lunes y termina el domingo, y, según el calendario litúrgico, empieza el domingo y termina el sábado”. Esta división proviene de la astronomía babilónica, en la que se asignaba el nombre de un planeta, tales como Marte, Saturno, Mercurio, Júpiter, Sol y también, Luna; nombres propios de los que en castellano podemos advertir como los actuales nombres de cada día derivan.
 
