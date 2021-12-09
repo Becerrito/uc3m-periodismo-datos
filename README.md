@@ -1,7 +1,7 @@
 # uc3m-periodismo-datos
 
 
-Clase del 14/09/20 **LAS URL**
+Clase del 14/09/20 **LAS URL** :
 
 *https* indica el protocolo que está utilizando en este servicio de internet, y los :// separa el protocolo de la dirección. Esto está relacionado con el concepto de ***dominio***. Podemos pensar que github.com o uc3m.es son dominios, sin embargo, conviene saber que la dirección se compone de dos partes:
 + dominio
